@@ -15,7 +15,7 @@ func (o OssFoo) Name() string {
 }
 
 func (o OssFoo) License() string {
-	return "OSS"
+	return "OSS3"
 }
 
 func PrintFoo(f Foo) {
