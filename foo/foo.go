@@ -11,7 +11,7 @@ type OssFoo struct {
 }
 
 func (o OssFoo) Name() string {
-	return "Foo"
+	return "Foo 5"
 }
 
 func (o OssFoo) License() string {
